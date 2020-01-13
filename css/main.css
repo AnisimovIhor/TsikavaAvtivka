@@ -1,0 +1,46 @@
+
+@font-face {
+  font-family: Intro Inline;
+  scr: url(fonts/Intro Inline Regular.ots);
+  src: local(Intro Inline), url(fonts/Intro Inline Regular.ots);
+}
+
+body {
+
+}
+
+.mein-menu {
+  width: 324px;
+  height: 941px;
+  background-color: #FFFFFF;
+  box-shadow: 6px 0 16px 0 rgba(0,0,0,0.18);
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  border-bottom: 1px solid transparent;
+}
+
+a:hover {
+  color: #17170E;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  padding-bottom: 1px;
+
+
+}
+
+.mein-menu a {
+  display: block;
+  margin: 25px;
+  font-family: Intro Inline;
+  color: #17170E;
+  text-align: center;
+}
+
+.long-logo {
+  width: 324px;
+  height: 120px;
+}
+
